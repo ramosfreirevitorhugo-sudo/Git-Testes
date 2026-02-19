@@ -1,3 +1,3 @@
 Curso de Git e Github, eu honestamente ainda não entendi 
 como esse negócio funciona, essa é uma modificação teste seguindo os estudos 
-do curso como base, Hello World!
+do curso como base, Hello World!, nova versão
