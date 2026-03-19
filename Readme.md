@@ -6,3 +6,7 @@ do curso como base, Hello World!, nova versão
 Olá! eu sou um texto teste e você não precisa me levar a sério =)
 
 Hello my friend  -_- b
+
+Eu sou super secreto huHuhuHu
+
+Modificação aleatória
